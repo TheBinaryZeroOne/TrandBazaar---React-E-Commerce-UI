@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@900&display=swap");
+
+/* *{
+    overflow-x: hidden;
+} */
+
+.heading {
+  font-family: "Lexend", sans-serif;
+  overflow-y: hidden;
+}
