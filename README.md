@@ -1,6 +1,6 @@
-# TrandBazaar - React E-Commerce UI
+# TrendBazaar - React E-Commerce UI
 
-TrandBazaar is a React-based e-commerce user interface designed to provide a seamless and engaging shopping experience. This project focuses on the frontend aspects of an e-commerce platform, offering a modern, responsive UI with essential features.
+TrendBazaar is a React-based e-commerce user interface designed to provide a seamless and engaging shopping experience. This project focuses on the frontend aspects of an e-commerce platform, offering a modern, responsive UI with essential features.
 
 ## Features
 
