@@ -47,6 +47,6 @@ Before running the project, make sure to install the necessary dependencies:
 ![ecomm-5](https://github.com/user-attachments/assets/8c3e9515-ac2e-49fe-8891-a3cbfd9dfd5f)
 
 
-![ecomm-6](https://github.com/user-attachments/assets/2a1c7a2c-2b4b-48c0-90ea-5979b3f68300)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![ecomm-10](https://github.com/user-attachments/assets/d1370134-5896-470b-9383-482e299a5b55)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![ecomm-9](https://github.com/user-attachments/assets/368e3e0a-38d5-463a-90db-bf1095cd99d1)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![ecomm-8](https://github.com/user-attachments/assets/f2a91be6-d33c-4243-b39e-fdf797a3365b)
+![ecomm-6](https://github.com/user-attachments/assets/2a1c7a2c-2b4b-48c0-90ea-5979b3f68300)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![ecomm-10](https://github.com/user-attachments/assets/d1370134-5896-470b-9383-482e299a5b55)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![ecomm-9](https://github.com/user-attachments/assets/368e3e0a-38d5-463a-90db-bf1095cd99d1)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br> ![ecomm-8](https://github.com/user-attachments/assets/f2a91be6-d33c-4243-b39e-fdf797a3365b)
 
 
