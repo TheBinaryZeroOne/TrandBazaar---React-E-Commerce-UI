@@ -48,4 +48,4 @@ Before running the project, make sure to install the necessary dependencies:
 
 
 
-![ecomm-6](https://github.com/user-attachments/assets/2a1c7a2c-2b4b-48c0-90ea-5979b3f68300)                   ![ecomm-10](https://github.com/user-attachments/assets/d1370134-5896-470b-9383-482e299a5b55)
+![ecomm-6](https://github.com/user-attachments/assets/2a1c7a2c-2b4b-48c0-90ea-5979b3f68300)  <br/>![ecomm-10](https://github.com/user-attachments/assets/d1370134-5896-470b-9383-482e299a5b55)
