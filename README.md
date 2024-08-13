@@ -35,18 +35,23 @@ Before running the project, make sure to install the necessary dependencies:
 
 ![ecomm-2](https://github.com/user-attachments/assets/912654f0-7eee-4374-b061-04cd21373f56)
 
-
+<br/>
+<br/>
 
 ![ecomm-3](https://github.com/user-attachments/assets/eeea6799-cfdb-4e51-9ffa-2e9086a73593)
 
-
+<br/>
+<br/>
 
 ![ecomm-4](https://github.com/user-attachments/assets/028e237b-b1a9-4c43-9950-a01cbda95fd0)
 
-
+<br/>
+<br/>
 
 ![ecomm-5](https://github.com/user-attachments/assets/8c3e9515-ac2e-49fe-8891-a3cbfd9dfd5f)
 
+<br/>
+<br/>
 
 ![ecomm-6](https://github.com/user-attachments/assets/2a1c7a2c-2b4b-48c0-90ea-5979b3f68300)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![ecomm-10](https://github.com/user-attachments/assets/d1370134-5896-470b-9383-482e299a5b55)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![ecomm-9](https://github.com/user-attachments/assets/368e3e0a-38d5-463a-90db-bf1095cd99d1) 
 
